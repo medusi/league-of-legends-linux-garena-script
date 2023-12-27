@@ -189,3 +189,5 @@ python lol.py
 
 # Disclaimer
 * If the game crash with some message that saids `core dump...` just press `OK` and wait a bit, the game will continue at the exact state
+
+
